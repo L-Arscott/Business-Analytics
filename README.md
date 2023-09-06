@@ -57,8 +57,9 @@ Each subsequent visit seems to knock approximately a day and a half off payment 
 ## Putting everything together: Logistic Regression
 Below is the result of feeding our data into a logistic regression model. Logistic regression is about predicting the answer to a "Yes" or "No" question (in our case, "Will payment be late ?") based on information we call "features".
 
+
 <p align="center">
-  <img src="https://github.com/L-Arscott/Business-Analytics/assets/64332150/9054b3dc-621f-4dde-bc7f-083cd818743a" height="300"/>
+  <img src="https://github.com/L-Arscott/Business-Analytics/assets/64332150/9054b3dc-621f-4dde-bc7f-083cd818743a" height="200"/>
 </p>
 
 
